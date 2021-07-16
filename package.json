@@ -1,0 +1,24 @@
+{
+  "name": "life-helper-frontend-config",
+  "version": "1.2.2",
+  "description": "「我的个人助手」Web 端项目配置文件",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inlym/life-helper-frontend-config.git"
+  },
+  "keywords": [],
+  "author": "inlym",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inlym/life-helper-frontend-config/issues"
+  },
+  "homepage": "https://github.com/inlym/life-helper-frontend-config#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
